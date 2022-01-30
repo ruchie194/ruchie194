@@ -5,7 +5,13 @@
 <img src="https://user-images.githubusercontent.com/82935329/151655775-7e9394a3-67bc-4754-9595-3a6dfd9f5a1c.gif">
 
 <h2>About me</h2>
-Currently, I am a 2nd year student of Computer Science. I love sharing my knowledge and experience. I believe that learning a lot of things from each other and sharing experiences opens our minds. You can connect with me on 
+I am a 2nd year student of Computer Science. I love sharing my knowledge and experience. I believe that learning a lot of things from each other and sharing experiences opens our minds.<br>
+🎯 Currently i am focusing on real world problems.<br>
+📈 Improving my backend skills.<br>
+💻 Working on many projects.<br>
+<br>
+<b>You can connect with me on</b>
+<a href="https://linkedin.com/in/ruchi-parihar-06b497201/" target="_blank">LinkedIn</a>
 
 
 <h2>Summary</h2>
@@ -39,4 +45,4 @@ Frameworks, Platforms and Libraries
 
 <h2>🔗 Connect with me</h2>
 
-<img src="https://user-images.githubusercontent.com/82935329/151665588-fde5bc90-645b-4d30-88f0-27be9d5266f4.png" height="40" width="40">   <img src="https://user-images.githubusercontent.com/82935329/151665521-8a5cb034-1e8d-42ed-b766-6a04ce9ac752.png" height="40" width="40">
+<a href="https://linkedin.com/in/ruchi-parihar-06b497201/" target="_blank"><img src="https://user-images.githubusercontent.com/82935329/151665588-fde5bc90-645b-4d30-88f0-27be9d5266f4.png" height="40" width="40"></a>   <a href="https://www.instagram.com/ruchie194/" target="_blank"><img src="https://user-images.githubusercontent.com/82935329/151665521-8a5cb034-1e8d-42ed-b766-6a04ce9ac752.png" height="40" width="40"></a>

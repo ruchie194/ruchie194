@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/ruchie194/ruchie194/master/profile-summary-card-output/highcontrast/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ruchie194/ruchie194/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    

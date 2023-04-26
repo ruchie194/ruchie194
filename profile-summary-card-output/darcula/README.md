@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/ruchie194/ruchie194/master/profile-summary-card-output/darcula/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ruchie194/ruchie194/master/profile-summary-card-output/darcula/4-productive-time.svg)
+```
+
+    
